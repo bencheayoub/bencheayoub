@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bencheayoub
 - 👀 I’m interested in web devlopment and cyber security
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning c language with python
 - OpenMindsClub member ❤️
 - 📫 How to reach me :
 - email : AyoubBenChetioui@gmail.com
