@@ -2,7 +2,7 @@
   <img alt="Coding" width="1300" height="70%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </div>
 <div>
-<h1 align="center">Hi 👋, I'm Ayoub</h1> <h3 align="center">A Computer Science Student at USTHB</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=bencheayoub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=bencheayoub&theme=darkhub&row=1&column=6&margin-w=15" alt="Trophies" /> </a>
+<h1 align="center">Hi 👋, I'm Ayoub</h1> <h3 align="center">A Computer Science Student at USTHB</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=bencheayoub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=bencheayoub&theme=tokyonight" alt="Trophies" /> </a>
 
   </div><!-- Social icons section -->
 <p align="center">
