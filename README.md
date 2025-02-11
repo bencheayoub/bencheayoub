@@ -82,6 +82,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bencheayoub&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bencheayoub&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
