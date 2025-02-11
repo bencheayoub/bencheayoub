@@ -74,14 +74,12 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bencheayoub&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bencheayoub&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bencheayoub&show_icons=true&locale=en&theme=radical&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bencheayoub&theme=radical" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bencheayoub&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bencheayoub&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
