@@ -92,7 +92,7 @@
 
 
   <p style="font-size: 1.2em; color: #6C63FF; font-style: italic; border-left: 3px solid #6C63FF; padding-left: 15px;">
-    "If this code doesn’t  work, run it with reverse."
+    "If this code doesn’t  work, run it in reverse."
   </p>
   <p style="font-size: 0.9em; color: #808080; margin-top: 10px;">
     ― Ayoub Benchetioui
