@@ -95,6 +95,6 @@
     "If this code doesn’t  work, run it in reverse."
   </p>
   <p style="font-size: 0.9em; color: #808080; margin-top: 10px;">
-    ― Ayoub Benchetioui
+    _Ayoub Benchetioui
   </p>
 </div>
