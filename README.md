@@ -40,9 +40,7 @@
     <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ctflearn.com/user/i_am_not_ayoub">
-    <img width="32px" alt="CTFlearn" title="CTF" src="logo/fla.png"/>
-  </a>
+  
 </p>
 
 ---
