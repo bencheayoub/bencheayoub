@@ -82,6 +82,9 @@
 <div align="center" style="background-color: #1E3A8A; padding: 20px; border-radius: 5px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bencheayoub&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bencheayoub&theme=radical" alt="GitHub Contributions"/>
+</p>
 
 ---
 
