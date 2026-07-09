@@ -70,7 +70,7 @@
   </a>
 </p>
 
----
+<!---
 
 ### 📊 **GitHub Stats**
 
@@ -87,7 +87,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bencheayoub&theme=radical" alt="GitHub Contributions"/>
 </p>
 
----
+--->
 
 ### **My Quote**
 <div align="center" style="margin: 40px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #1E3A8A; padding: 20px; border-radius: 5px;">
