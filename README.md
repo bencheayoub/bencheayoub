@@ -89,6 +89,8 @@
 
 --->
 
+---
+
 ### **My Quote**
 <div align="center" style="margin: 40px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #1E3A8A; padding: 20px; border-radius: 5px;">
   <p style="font-size: 1.2em; color: #6C63FF; font-style: italic; border-left: 3px solid #6C63FF; padding-left: 15px;">
